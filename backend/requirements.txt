@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+httpx
+pydantic
+motor
+pymongo
+sqlalchemy
+psycopg2-binary
+pgvector
+sentence-transformers
+pypdf
+python-multipart
+celery
+redis
